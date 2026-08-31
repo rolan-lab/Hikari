@@ -4,26 +4,19 @@ Welcome to my cozy little corner on GitHub ✨
 
 ---
 
-## 🐱 About Me
+##  About Me
 - 💻 Just a girl trying to make code *actually* work  
-- ☕ Fueled by tea, snacks, and late-night debugging  
-- 🌙 Coding at 3AM because inspiration (or errors) never sleep  
-- 🎨 Love mixing creativity with code  
-- 🐾 Professional bug whisperer  
+- ☕ Fueled by tea, snacks 
+
 
 ---
 
 ## 💕 Currently Learning
-- 🌟 Java & Python adventures  
-- 🔐 A little bit of cybersecurity magic  
-- 📊 Playing with data until it makes sense  
-
----
-
-## ✨ Tech Cuties I Use
+-  Java & Python adventures  
+-  A little bit of cybersecurity
+  
 
 
----
 
 ## 🐾 GitHub Stats
 ![Hikari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hikari&show_icons=true&theme=sakura&title_color=ff69b4&icon_color=ffb6c1)  
